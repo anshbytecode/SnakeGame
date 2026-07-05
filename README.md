@@ -1,7 +1,21 @@
 # Snake Game (Java + Swing)
 
-A complete, dependency-free Snake game written in plain Java (Swing/AWT only —
-no external libraries, no build tool required).
+A classic Snake Game built using Java and Swing. Control the snake, collect food, increase your score, and avoid collisions with walls or your own body.
+
+# Features
+Smooth snake movement
+Random food generation
+Real-time score tracking
+Collision detection
+Game Over screen
+Restart functionality
+Keyboard controls
+
+# Technologies Used
+Java
+Java Swing
+AWT Graphics
+Object-Oriented Programming (OOP)
 
 ## Controls
 - **Arrow keys** or **WASD** — move
