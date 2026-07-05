@@ -4,11 +4,11 @@ A classic Snake Game built using Java and Swing. Control the snake, collect food
 
 # Features
 Smooth snake movement
-Random food generation
-Real-time score tracking
-Collision detection
-Game Over screen
-Restart functionality
+,Random food generation
+,Real-time score tracking
+,Collision detection
+,Game Over screen
+,Restart functionality
 Keyboard controls
 
 # Technologies Used
