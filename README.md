@@ -10,3 +10,5 @@ A classic Snake Game built using Java and Swing. Control the snake, collect food
 - **P** — pause / resume
 - **R** — restart after game over
 - **Esc** — quit
+
+  
